@@ -1,0 +1,16 @@
+* 2017
+** Kris Jenkins keynote
+- ClojureScript vs Elm ???
+*** Angular must die
+- Angular did die 
+  - Angluar 2 announced with no migration path)
+- Blub paradox
+  - Found Clojure
+  - Brainfuck is turing complete
+  - Everything above Brainfuck is for the human
+
+* 2018
+** The spirit of Clojure (Karsten Schmidt
+
+@thing_umbrella
+
